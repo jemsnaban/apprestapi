@@ -1,0 +1,23 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jemsnaban/apprestapi.git"
+  },
+  "keywords": [
+    "restapi",
+    "nodejs"
+  ],
+  "author": "jemsnaban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemsnaban/apprestapi/issues"
+  },
+  "homepage": "https://github.com/jemsnaban/apprestapi#readme"
+}
